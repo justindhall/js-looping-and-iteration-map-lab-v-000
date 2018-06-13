@@ -18,7 +18,7 @@ function nameToAttributes(drivers){
   
 }
 
-function attributetoPhrase (drivers){
+function attributestoPhrase (drivers){
   
   return drivers.map(function (driver){
     
