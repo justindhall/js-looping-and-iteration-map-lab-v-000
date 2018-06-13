@@ -13,7 +13,7 @@ function nameToAttributes(drivers){
     const firstName = driver.split(' ', [0]);
     const lastName = driver.split(' ', [0]);
     
-    return 
+    return {
   })
   
 }
